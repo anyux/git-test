@@ -7,10 +7,6 @@ package com.atguigu.gittest;
 public class gitTest {
     public static void main(String[] args) {
         System.out.println("Hello hot-fix");
-        System.out.println("Hello git-test");
-        System.out.println("Hello git-test");
-        System.out.println("Hello git-test");
-        System.out.println("test hot-fix");
         System.out.println("test master");
     }
 }
